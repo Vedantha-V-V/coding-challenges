@@ -1,0 +1,5 @@
+- [x] Accept a file from command line and print first 10 lines.
+- [x] Accept a file from standard input and print first 10 lines. 
+- [x] Loop through to check all the options by the user.
+- [x] Store file paths in an array of string or use argv itself as the array
+- [x] Add character bytes flag

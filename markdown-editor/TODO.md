@@ -1,0 +1,5 @@
+- [x] Accept a markdown file and read it using command line arguments 
+- [x] Parse the document and convert to HTML
+- [x] Save the HTML file for preview
+- [x] Better formatting and styling of the HTML file
+- [ ] Export the file to PDF

@@ -1,0 +1,43 @@
+__pycache__/
+tests/
+.venv/
+.vscode
+*.exe
+.env
+
+# wc 
+wc/ccwc
+
+# json parser
+
+# compression tool
+
+# uniq
+uniq/uniq
+
+# sort
+sort/sort
+
+# cut
+
+# grep
+
+
+# cat
+cat/cccat
+
+# discord bot
+discord-bot/.venv
+discord-bot/.env
+
+# asteroids
+asteroids/game_events.jsonl
+asteroids/game_state.jsonl
+asteroids/test.txt
+asteroids/res
+
+# bittorrent
+bittorrent/LibreOffice_26.2.4_Linux_x86-64_rpm.tar.gz.torrent
+
+# head
+head/cchead

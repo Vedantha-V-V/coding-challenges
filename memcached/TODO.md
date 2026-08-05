@@ -1,0 +1,3 @@
+- [ ] Write a simple client function
+- [ ] Connect to the server and check connection
+- [ ] Parse command line arguments and convert them to valid payload for data transfer
