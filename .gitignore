@@ -41,3 +41,6 @@ bittorrent/LibreOffice_26.2.4_Linux_x86-64_rpm.tar.gz.torrent
 
 # head
 head/cchead
+
+# ccmc
+memcached/ccmc
