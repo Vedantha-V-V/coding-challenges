@@ -1,9 +1,0 @@
-- [x]  Asteroid Spawn Logic
-- [x] Spaceship spawn and shoot at asteroids
-- [x] Asteroid collision with spaceship and projectiles
-- [ ] Replace all instances to use turtle instead of Pygame
-- [ ] Start Game Screen
-- [ ] Objects wrap around the screen
-- [ ] Scoring system
-- [ ] High Score Table
-- [ ] Multi Health System
