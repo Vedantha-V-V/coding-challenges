@@ -8,15 +8,11 @@ Building coding challenges projects
 
 ## Progress
 
-| Project Title | Project Link | Status |
-| :--- | :--- | :--- |
-| wc Tool | [wc Tool](https://codingchallenges.fyi/challenges/challenge-wc) | Done |
-| JSON Parser | [JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser) | Done |   
-| Compression Tool | [Compression Tool](https://codingchallenges.fyi/challenges/challenge-huffman) | Done | 
-| Sort Tool | [Sort Tool](https://codingchallenges.fyi/challenges/challenge-sort) | Done |
-| uniq Tool | [uniq Tool](https://codingchallenges.fyi/challenges/challenge-uniq) | Done |
-| diff Tool | [diff Tool](https://codingchallenges.fyi/challenges/challenge-diff) | In Progress |
-| cat Tool | [cat Tool](https://codingchallenges.fyi/challenges/challenge-cat) | Done |
-| head | [head](https://codingchallenges.fyi/challenges/challenge-head) | Done |
-| CronTab Tool | [CronTab Tool](https://codingchallenges.fyi/challenges/challenge-cron) | Done |
-| Chrome Extension | [Chrome Extension](https://codingchallenges.fyi/challenges/challenge-chrome-extension) | In Progress |
+| Project Title | Project Link | Status | Language |
+| :--- | :--- | :--- | :--- |
+| wc Tool | [wc Tool](https://codingchallenges.fyi/challenges/challenge-wc) | Done | C |
+| JSON Parser | [JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser) | Done | Python |
+| Compression Tool | [Compression Tool](https://codingchallenges.fyi/challenges/challenge-huffman) | Done | Python |
+| cut Tool | [cut Tool](https://codingchallenges.fyi/challenges/challenge-cut/) | Not Started | Python |
+| Load Balancer | [Load Balancer](https://codingchallenges.fyi/challenges/challenge-load-balancer) | Not Started | Python |
+| Sort Tool | [Sort Tool](https://codingchallenges.fyi/challenges/challenge-sort) | Done | C |
