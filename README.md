@@ -1,9 +1,10 @@
 # Coding Challenges
 
-Implementation of the coding challenges in C
+Building coding challenges projects
 
 ## Requirements
 - gcc
+- python3.11
 
 ## Progress
 
@@ -17,5 +18,5 @@ Implementation of the coding challenges in C
 | diff Tool | [diff Tool](https://codingchallenges.fyi/challenges/challenge-diff) | In Progress |
 | cat Tool | [cat Tool](https://codingchallenges.fyi/challenges/challenge-cat) | Done |
 | head | [head](https://codingchallenges.fyi/challenges/challenge-head) | Done |
-| CronTab Tool | [CronTab Tool](https://codingchallenges.fyi/challenges/challenge-cron) | Not Started |
+| CronTab Tool | [CronTab Tool](https://codingchallenges.fyi/challenges/challenge-cron) | Done |
 | Chrome Extension | [Chrome Extension](https://codingchallenges.fyi/challenges/challenge-chrome-extension) | In Progress |
